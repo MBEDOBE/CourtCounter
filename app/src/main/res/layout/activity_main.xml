@@ -45,7 +45,7 @@
                 android:layout_marginBottom="8dp"
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
-                android:background="@color/mist"
+                android:background="@drawable/round_button"
                 android:onClick="addThreeForTeamA"
                 android:text="@string/plus_three" />
 
@@ -56,7 +56,7 @@
                 android:layout_marginBottom="8dp"
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
-                android:background="@color/mist"
+                android:background="@drawable/round_button"
                 android:onClick="addThreePointsForTeamA"
                 android:text="@string/add3_points" />
 
@@ -66,7 +66,7 @@
                 android:layout_marginBottom="8dp"
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
-                android:background="@color/mist"
+                android:background="@drawable/round_button"
                 android:onClick="addTwoForTeamA"
                 android:text="@string/plus_two" />
 
@@ -76,7 +76,7 @@
                 android:layout_marginBottom="8dp"
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
-                android:background="@color/mist"
+                android:background="@drawable/round_button"
                 android:onClick="addOneForTeamA"
                 android:text="@string/plus_five" />
 
@@ -125,7 +125,7 @@
                 android:layout_marginBottom="8dp"
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
-                android:background="@color/mist"
+                android:background="@drawable/round_button"
                 android:onClick="addThreeForTeamB"
                 android:text="@string/plus_three" />
 
@@ -136,7 +136,7 @@
                 android:layout_marginBottom="8dp"
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
-                android:background="@color/mist"
+                android:background="@drawable/round_button"
                 android:onClick="addThreePointsForTeamB"
                 android:text="@string/add3_points" />
 
@@ -146,7 +146,7 @@
                 android:layout_marginBottom="8dp"
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
-                android:background="@color/mist"
+                android:background="@drawable/round_button"
                 android:onClick="addTwoForTeamB"
                 android:text="@string/plus_two" />
 
@@ -156,7 +156,7 @@
                 android:layout_marginBottom="8dp"
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
-                android:background="@color/mist"
+                android:background="@drawable/round_button"
                 android:onClick="addOneForTeamB"
                 android:text="@string/plus_five" />
 
@@ -170,7 +170,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="10dp"
-        android:background="@color/mist"
+        android:background="@drawable/round_button"
         android:onClick="resetScore"
         android:text="@string/resetButton" />
 
